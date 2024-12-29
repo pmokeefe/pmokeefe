@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @pmokeefe (Patrick O'Keefe)
-- 👀 I’m interested in bioinformatics.
-- 📫 How to reach me pmokeefe@FamilyDNAresearch.org
+- Hi, I’m @pmokeefe (Patrick O'Keefe)
+- I’m interested in bioinformatics and AI.
+- How to reach me pmokeefe@FamilyDNAresearch.org
 
 <!---
 pmokeefe/pmokeefe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
